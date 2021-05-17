@@ -7,7 +7,7 @@ h2 {
 .bold-text {
   font-weight: 700;
 }
-.country-container:not(:first-child) {
+.country-container {
   display: flex;
   justify-content: space-around;
   align-items: center;
